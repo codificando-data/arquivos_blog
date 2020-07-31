@@ -1,0 +1,1 @@
+- 01.08.20.img1 / Técnica de Orçamento de Capital em Python

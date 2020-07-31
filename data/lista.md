@@ -1,0 +1,1 @@
+- **fluxo.xlsm** - post Técnica de Orçamento de Capital em Python, 01/08/2020. 
